@@ -1,0 +1,8 @@
+node_modules
+.wwebjs_auth
+.env
+session
+.auth
+creds.json
+credentials.json
+credentials.json23
